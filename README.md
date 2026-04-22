@@ -1,20 +1,19 @@
-# 🧠 Lógica de Programação II: Estruturas de Controlo
+# Lógica de Programação II: Estruturas Condicionais
 
-Resolução de problemas focada em tomadas de decisão, comparações numéricas e filtros condicionais.
+Exercícios focados em tomadas de decisão e lógica de comparação utilizando estruturas de controle.
 
-## 📋 Desafios Resolvidos
-* **Comparações de Máximos:** Identificação do maior valor entre conjuntos de números.
-* **Análise de Sinais:** Verificação de números positivos, negativos ou zero.
-* **Lógica de Soma e Média:** Cálculos baseados nos maiores valores de uma lista.
-* **Filtragem de Dados:** Soma de valores específicos e validação de intervalos de notas.
-* **Tomada de Decisão Real:** Verificação de elegibilidade eleitoral e cálculo de peso ideal.
-* **Micro Calculadora:** Menu interativo para execução de operações aritméticas básicas.
+## Desafios Resolvidos
+* **Comparativos:** Identificação do maior valor entre números e verificação de sinais (positivo/negativo).
+* **Lógica de Médias:** Cálculos de média aritmética com filtros de validação.
+* **Regras de Negócio:** * Verificação de idade mínima para votação.
+    * Cálculo de peso ideal baseado em gênero e altura.
+* **Micro Calculadora:** Sistema que executa operações (soma, subtração, etc.) de acordo com a escolha do usuário.
 
-## 🛠️ Conceitos Técnicos
-* **Estruturas Condicionais:** Uso de `if`, `else if` e `when`.
-* **Operadores Lógicos:** Aplicação de lógica booleana (`&&`, `||`).
-* **Processamento de Listas:** Gestão de múltiplos valores informados pelo utilizador.
+## Conceitos Técnicos
+* **Desvios Condicionais:** Uso de `se`, `senao se` e `senao`.
+* **Operadores Lógicos:** Aplicação de `e` e `ou`.
+* **Seleção Múltipla:** Uso do comando `escolha/caso`.
 
-## 🚀 Tecnologias
-* **Linguagem:** Kotlin
-* **Paradigma:** Imperativo / Estruturado
+## Tecnologias
+* **Linguagem:** Portugol
+* **Ambiente:** Portugol Studio
